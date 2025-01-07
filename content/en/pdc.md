@@ -4,7 +4,7 @@ title: Community Guidelines
 
 We, as contributors of MetaDocencia, are committed to fostering an open, safe, and friendly environment and ensuring the participation of everyone in our activities and virtual spaces, regardless of age, gender, sexual orientation, disability, physical appearance, nationality, ethnicity, beliefs, ideology, or access to resources.
 
-All individuals participating in MetaDocencia, including team members, advisory board members, and participants, must accept and adhere to the following community guidelines.
+All individuals participating in MetaDocencia, including team members, advisory board members, internal and external collaboration teams, must accept and adhere to the following community guidelines.
 
 If you witness a situation where these community guidelines are not being respected, please report it to [the Community Guidelines team's e-mail](mailto:pdc@metadocencia.org). You may also individually contact any member of the Community Guidelines team (CG).
 
@@ -55,7 +55,7 @@ These Community Guidelines are subject to continuous review.
 
 * [Romina Pendino](https://www.metadocencia.org/authors/rominapedino/)
 * [Ivan Poggio](https://www.metadocencia.org/authors/ivan/)
-* [Mónica Alonso](https://www.metadocencia.org/authors/monialonso/)
+* [Paola Lefer](https://www.metadocencia.org/authors/plefer/)
 
 ## Attribution
 

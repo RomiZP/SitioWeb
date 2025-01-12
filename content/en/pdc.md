@@ -45,9 +45,9 @@ The Community Guidelines Team, composed by members of MetaDocencia, is responsib
 
 The team also has the responsibility and reserves the right to remove, edit, or reject comments, materials, and other contributions that do not align with these community guidelines.
 
-Reports of unacceptable behavior can be made by sending an email to [pdc@metadocencia.org](mailto:pdc@metadocencia.org) or contacting any member of the Community Guidelines Team. All messages will be reviewed, followed up on, and will result in an appropriate response to the circumstances. The confidentiality of the affected individuals will always be respected, and care will be provided to those who contact the team to report an incident. The Community Guidelines Intervention Protocol serves as a framework and establishes both a working guide for the team and principles for acting in situations that require intervention.
+Reports of unacceptable behavior can be made by sending an email to [pdc@metadocencia.org](mailto:pdc@metadocencia.org) or contacting any member of the Community Guidelines Team. All messages will be reviewed, followed up on, and will result in an appropriate response to the circumstances. The confidentiality of the affected individuals will always be respected, and care will be provided to those who contact the team to report an incident. The [Community Guidelines Intervention Protocol](https://zenodo.org/records/13237097) serves as a framework and establishes both a working guide for the team and principles for acting in situations that require intervention.
 
-Members of the Community Guidelines Team commit to recusing themselves if they have a conflict of interest related to handling a case, in accordance with MetaDocencia’s Conflict of Interest policy.
+Members of the Community Guidelines Team commit to recusing themselves if they have a conflict of interest related to handling a case, in accordance with [MetaDocencia’s Conflict of Interest Policy](https://zenodo.org/records/13237000).
 
 These Community Guidelines are subject to continuous review.
 

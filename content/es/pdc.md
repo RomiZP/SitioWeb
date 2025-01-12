@@ -42,9 +42,9 @@ El equipo de Pautas de Convivencia, formado por integrantes de MetaDocencia, es 
 
 También tiene la responsabilidad y se reserva el derecho de eliminar, editar o rechazar comentarios, materiales y otras contribuciones que no estén alineadas con estas pautas de convivencia. 
 
-Los casos de comportamiento inaceptable pueden ser informados enviando un correo electrónico a [pdc@metadocencia.org](mailto:pdc@metadocencia.org) o a cualquier persona que integra el equipo de Pautas de Convivencia. Todos los mensajes serán revisados, se realizará seguimiento y se dará como resultado una respuesta apropiada a las circunstancias. Se respetará en todo momento la confidencialidad de las personas afectadas y se propiciará el cuidado de quienes se comuniquen con el equipo de Pautas de Convivencia para informar acerca de un incidente. 
+Los casos de comportamiento inaceptable pueden ser informados enviando un correo electrónico a [pdc@metadocencia.org](mailto:pdc@metadocencia.org) o a cualquier persona que integra el equipo de Pautas de Convivencia. Todos los mensajes serán revisados, se realizará seguimiento y se dará como resultado una respuesta apropiada a las circunstancias. Se respetará en todo momento la confidencialidad de las personas afectadas y se propiciará el cuidado de quienes se comuniquen con el equipo de Pautas de Convivencia para informar acerca de un incidente. El [Protocolo de Intervención de Pautas de Convivencia](URLhttps://zenodo.org/records/13236904) constituye un marco de referencia y establece tanto una guía de trabajo del equipo como de principios para actuar en situaciones en que sea necesario intervenir.
 
-Las personas que forman parte del equipo de Pautas de Convivencia se comprometen a recusarse en caso de haber conflicto de intereses asociados al seguimiento de un caso según la política de Conflicto de Interés de MetaDocencia.
+Las personas que forman parte del equipo de Pautas de Convivencia se comprometen a recusarse en caso de haber conflicto de intereses asociados al seguimiento de un caso según la política de [Conflicto de Interés de MetaDocencia](https://zenodo.org/records/14119131).
 
 Estas Pautas de Convivencia se encuentran en permanente revisión.
 
